@@ -5,6 +5,7 @@ L’entreprise française d’agro-alimentaire  «La poule qui chante » souhait
 Les données de open open data du site de la FAO (” Food and Agriculture Organization” ) ont été utilisées . 
 
 Dans le projet 2 méthodes de regroupement des données ont été démontrés : 
+
 •	K-means 
 
 •	Classification ascendante hiérarchique
