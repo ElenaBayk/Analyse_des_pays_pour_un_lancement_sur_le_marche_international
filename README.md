@@ -11,4 +11,4 @@ Dans le projet 2 méthodes de regroupement des données ont été démontrés :
 •	Classification ascendante hiérarchique
 
 
-Analyse en composantes principales (ACP) était réalisé afin d’améliorer la visualisation et l’explication de comparaison du groupe et des pays d’un groupe. 
+Analyse en composantes principales (ACP) était réalisé afin d’améliorer la visualisation et l’explication de comparaison du groupe et des pays d’un groupe.  
