@@ -1,6 +1,6 @@
 Description du projet
 
-L’entreprise française d’agro-alimentaire  «La poule qui chante » souhaite se développer sur un niveau international. Première analyse  et groupements de pays qu’elle pourrais  cibler pour exporter  les poulets a été demandé .
+L’entreprise française d’agro-alimentaire  «La poule qui chante » souhaite se développer sur un niveau international. Première analyse  et groupements de pays dont l'entreprise  pourrais  cibler pour exporter  les poulets a été demandé .
 
 Les données de open data du site de la FAO (” Food and Agriculture Organization” ) ont été utilisées . 
 
