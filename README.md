@@ -30,6 +30,7 @@ Dans le projet 2 méthodes de regroupement des données ont été démontrés :
 
 ACP était réalisé  dans la partie de préparation des données afin d’améliorer la visualisation et l’explication de comparaison du groupe et des pays d’un groupe.
 
-✅`Compétences:`
+---
+⭐ `Compétences :`
 - Effectuer un clustering 
 - Explorer des données pour synthétiser des variables
