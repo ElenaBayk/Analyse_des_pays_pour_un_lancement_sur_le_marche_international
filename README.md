@@ -18,7 +18,7 @@ Les données de open data de  [FAO (” Food and Agriculture Organization” )](
 Première analyse  et groupements de pays dont l'entreprise  pourrais  cibler pour exporter  les poulets.
 
 
-✅`Les requêtes:`
+✅`Requêtes:`
 
 Dans le projet 2 méthodes de regroupement des données ont été démontrés : 
 
